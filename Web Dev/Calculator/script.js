@@ -150,7 +150,7 @@ function power() {
 
     if (isFirstClick) {
         // Show the welcome message for 3 seconds
-        screen.innerHTML = '<span style="color: red; font-family: Courier New;">-------Casio-------</span>';
+        screen.innerHTML = '<span style="color: red; font-family: Courier New;">-------Hello-------</span>';
         setTimeout(() => {
             screen.innerHTML = '';
             On.innerHTML = 'OFF';
