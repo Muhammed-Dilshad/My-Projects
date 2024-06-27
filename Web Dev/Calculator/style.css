@@ -5,6 +5,19 @@ body {
     background: linear-gradient(-45deg, #FA8BFF, #2BD2FF, #FFE53B, #FF2525, #FBDA61)
 }
 
+#logo{
+    position:fixed;
+    left: 10px;
+    top: 10px;
+    height:60px;
+    aspect-ratio: 1;
+    border: solid #000000;
+    border-radius: 50%;
+    background: url("./logo.png");
+    background-size: contain;
+    background-position:center;
+  }
+
 .outer {
     display: grid;
     align-items: center;
