@@ -13,7 +13,7 @@ body {
     aspect-ratio: 1;
     border: solid #000000;
     border-radius: 50%;
-    background: url("./logo.png");
+    background: url("./logo1.png");
     background-size: contain;
     background-position:center;
   }
